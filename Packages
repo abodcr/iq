@@ -30,3 +30,21 @@ Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.3
 Author: CokePokes
 Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
 Name: AppStore++
+
+Package: com.atwiiks.betterccxi
+Version: 1.6.0
+Architecture: iphoneos-arm
+Maintainer: ATWiiks
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloade
+Conflicts: com.unlimapps.uaupdatetools
+Filename: deb/com.atwiiks.betterccxi_1.6.0_iphoneos-arm.deb
+Size: 79028
+MD5sum: c8fc47f39792a8ec97345238f2123344
+SHA1: 1e5d92b8e0eed1937f8f204dd479c685dc3acfd1
+SHA256: f0a061b5162700e236692ed7e4a6eb3ea249046012485e9a5807a6faa4e157bc
+Section: Tweaks
+Priority: optional
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.3.1
+Author: ATWiiks
+Depiction: https://repo.packix.com/
+Name: AppStore++

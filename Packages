@@ -43,11 +43,47 @@ Conflicts: com.unlimapps.uaupdatetools
 Filename: deb/altstore_1.4.3_iphoneos-arm.deb
 Size: 4603254
 MD5sum: 3b939193522282780445236a6fa1dfe0
-SHA1: 
-SHA256: 
+SHA1: 1ea87c977c465646d87f783a94bdda3aa251b69e
+SHA256: b60d0516691701c5918e008968537fca7ab6ccaf27b3210e5d1025080e5450c1
 Section: dta-tweaks
 Priority: optional
 Description: متجر التستور لتجديد شهادة
 Author: iq devs
 Depiction: 
 Name:  AltStore
+
+Package: com.spark.snowboard
+Version: 1.4.12~Beta4
+Architecture: iphoneos-arm
+Maintainer: iq devs
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: deb/com.spark.snowboard_1.4.12~Beta4_iphoneos-arm.deb
+Size: 1562164
+MD5sum: a4dc9696690c0711b57d8c8a327e7fcf
+SHA1: 389e7e7dc840e46aa0c601c86a6a42273005e91f
+SHA256: f517b7f5160a3d27282ecee016a23ecd1a6ace8dd7e23d63aca61e24a8ad2045
+Section: tweaks
+Priority: optional
+Description: اداة لتثبيت الثيمات
+Author: iq devs
+Depiction: https://www.sparkdev.me/package/com.spark.snowboard
+Name:  SnowBoard
+
+Package: com.rileytestut.altdaemon
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iq devs
+Depends: 
+Conflicts: 
+Filename: deb/altdaemon_1.0_iphoneos-arm.deb
+Size: 1562164
+MD5sum: 53e528e2a0eae5d0e9d7915de8f6f865
+SHA1: 91f2ff323ed372e61b40de6dbac89871226c7cef
+SHA256: af3268b5dbf94ccae3b4ca1c9a28c1df418e8db7c414ac13c38ac271482ce12c
+Section: dta-tweaks
+Priority: optional
+Description:  altstore تستخدم مع
+Author: iq devs
+Depiction: https://repo.dynastic.co/depiction/365649764538122240/?udid=
+Name:  AltDaemon
